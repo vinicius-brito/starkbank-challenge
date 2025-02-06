@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+starkbank
+faker
+apscheduler
+sqlalchemy
+pytest
+pytest-asyncio
+httpx
