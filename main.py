@@ -7,10 +7,10 @@ import logging
 import random
 import json
 import uuid
+import uvicorn
 
 from database import SessionLocal, Invoice
 from config import get_starkbank_user
-import uvicorn
 
 
 # ------------- Definições Iniciais ----------------
